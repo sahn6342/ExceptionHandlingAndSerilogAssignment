@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherForcastAPI", "WeatherForcastAPI\WeatherForcastAPI.csproj", "{30B6D408-E970-44E1-B0B1-87EF6D40035A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CentralizedExceptionHandlingWithSerilogLogging", "CentralizedExceptionHandlingWithSerilogLogging\CentralizedExceptionHandlingWithSerilogLogging.csproj", "{668A5B76-1D60-4133-A199-98412DB2E577}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30B6D408-E970-44E1-B0B1-87EF6D40035A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30B6D408-E970-44E1-B0B1-87EF6D40035A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30B6D408-E970-44E1-B0B1-87EF6D40035A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30B6D408-E970-44E1-B0B1-87EF6D40035A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{668A5B76-1D60-4133-A199-98412DB2E577}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{668A5B76-1D60-4133-A199-98412DB2E577}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{668A5B76-1D60-4133-A199-98412DB2E577}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{668A5B76-1D60-4133-A199-98412DB2E577}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {766199E8-A8E2-4A48-BA36-1D99006060CF}
+	EndGlobalSection
+EndGlobal
